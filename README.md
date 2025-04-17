@@ -29,10 +29,8 @@ After running the code cell, the interaction below it will look something like t
 ![Name for the Game](image/NameGame.png)  
 
 
-
 -------------
 
-*⚠️ Disclaimer: This tool is for educational and demonstration purposes only. The generated signals are based on a simple historical analysis and **do not constitute financial or investment advice**. Trading stocks involves significant risk.*  
 
 ### 🧑‍💻 Created by [tunjis](https://github.com/tunjis) 
 
