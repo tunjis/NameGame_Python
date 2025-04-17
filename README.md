@@ -1,6 +1,7 @@
 # The Name Game <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
 
-A simple Python script that generates the rhyme for Shirley Ellis' "The Name Game" song based on a user-provided name. Intended for use in Google Colab or a similar notebook environment.
+A simple Python script that generates the rhyme for Shirley Ellis' "The Name Game" song based on a user-provided name.  
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://youtu.be/k-FssT2ga54)
 
 ## Features
 
